@@ -1,0 +1,14 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Never commit keys or secrets
+*.pem
+*.key
+*_key
+*_key.pub
+id_*
+.env
+.env.*
